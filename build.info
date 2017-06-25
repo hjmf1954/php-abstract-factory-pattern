@@ -1,0 +1,38 @@
+ Introduction
+  ============
+  The project <code>AbstractFactory</code> is an example implementation of the Creational Design Pattern:
+   - AbstractFactory
+
+  Designing object-oriented software is hard, and designing reusable object-oriented software is even harder.
+  Experienced object-oriented designers will tell you that a reusable and flexible design is difficult
+  if not impossible to get "right" the first time.
+  Before a design is finished, they usually try to reuse it several times, modifying it each time.
+
+  The given implementation is made with the following purpose:
+   1. Complete working example of the pattern written in PHP.
+   2. Complete building by the client without any extra tools.
+   3. No External Libraries needed.
+   4. The code-example is made to explain the pattern in PHP and not to explain PHP.
+
+   How to use
+   ==========
+   The following actions are required:
+   - Extract Archive-file into a directory of your choice.
+   - Open a terminal window (UNIX) or a DOS Command window (Windows).
+   - Goto the directory containing the files 'ObserverDemo.php'.
+   - Execute the command 'php ObserverDemo.php'.
+
+   Requirements
+   ============
+    PHP Installation
+      Go to the website 'http://php.net/manual/en/install.php'
+      Choose the platform and follow the instructions given on the website.
+    Webserver with PHP, MySQL and Apache
+      Install MAMP (Apple OSX), WAMP (Windows) or LAMP (Linux).
+      See the different installation on the Internet.
+
+  Description
+  ===========
+  - AbstractFactory : https://www.harmfrielink.nl/wiki/index.php/Abstract_Factory
+  - Patterns        : https://www.harmfrielink.nl/wiki/index.php/Patterns
+
