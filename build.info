@@ -2,6 +2,7 @@
   ============
   The project <code>AbstractFactory</code> is an example implementation of the Creational Design Pattern:
    - AbstractFactory
+   - Singleton
 
   Designing object-oriented software is hard, and designing reusable object-oriented software is even harder.
   Experienced object-oriented designers will tell you that a reusable and flexible design is difficult
@@ -34,5 +35,6 @@
   Description
   ===========
   - AbstractFactory : https://www.harmfrielink.nl/wiki/index.php/Abstract_Factory
+  - Singleton       : https://www.harmfrielink.nl/wiki/index.php/Singleton
   - Patterns        : https://www.harmfrielink.nl/wiki/index.php/Patterns
 
