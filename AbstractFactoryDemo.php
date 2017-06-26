@@ -22,6 +22,9 @@ Used are:
 * All classes are placed in this single file for simplicity and ease of usage.
 *
 * See the documentation on https://www.harmfrielink.nl/wiki/index.php/Abstract_Factory.
+*
+* @modified 26 Jun 2017
+* @author   Harm Frielink, Nordhorn, Germany, <harm.frielink@gmail.com>
 */
 
 /**
@@ -38,7 +41,7 @@ class AbstractFactoryDemo {
       printf("%-20.20s: %s\n", "Current platform", PHP_OS);
 
       $currentPlatform = Util::getOS();
-      $currentPlatform = "qq";
+
       switch( $currentPlatform ) {
          case Util::APPLE_OSX:
          case Util::LINUX:
