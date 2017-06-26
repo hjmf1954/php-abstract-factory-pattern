@@ -23,8 +23,9 @@ Used are:
 *
 * See the documentation on https://www.harmfrielink.nl/wiki/index.php/Abstract_Factory.
 *
-* @modified 26 Jun 2017
-* @author   Harm Frielink, Nordhorn, Germany, <harm.frielink@gmail.com>
+* @modified  26 Jun 2017
+* @author    Harm Frielink, Nordhorn, Germany, <harm.frielink@gmail.com>
+* @copyright 2003-2017 Harm Frielink
 */
 
 /**
