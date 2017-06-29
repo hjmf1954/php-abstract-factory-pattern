@@ -32,6 +32,7 @@ Please read the 'build.info'. For more information on this project or visit:
 ## License
 MIT License.
 
-
+## Contact information
+- Email is my preferred way to communciate, please use harm.frielink@gmail.com adn use a descriptive Subject text.
 
 
