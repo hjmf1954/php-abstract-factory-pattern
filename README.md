@@ -25,7 +25,9 @@ php AbstractFactory.php
 ```
 
 ## Build Abstract Factory
-Please read the 'build.info' for more information on this project or visit 'https://www.harmfrielink.nl/wiki/index.php/Abstract_Factory'
+Please read the 'build.info'. For more information on this project or visit:
+* 'https://www.harmfrielink.nl/wiki/index.php/Abstract_Factory'
+* 'https://www.harmfrielink.nl/wiki/index.php/Singleton'
 
 ## License
 MIT License.
