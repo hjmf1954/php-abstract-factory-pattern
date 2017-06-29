@@ -15,7 +15,7 @@ The file *build.info* contains all information on the project in plain text form
 ## Installation
 - Clone the repository using the standard Git clone command.
 
-# Usage
+## Usage
 - Go to the directory where you have cloned the repository 
 - Go inside this directory to the directory containing the file *build.info*.
 - Execute the command:
