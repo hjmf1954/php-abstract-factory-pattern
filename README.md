@@ -5,6 +5,7 @@ php-abstract-factory-pattern
 Abstract Factory Pattern for PHP without any extra tools is an example implementation of the 2 Creational Desing Patterns:
 * Abstract Factory 
 * Singleton
+
 The Project is based on the Book of the Gang of Four: *Design Patterns, Elements of Reusable Object Oriented Software* by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides.
 
 The file *build.info* contains all information on the project in plain text format. 
